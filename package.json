@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "version": "",
+  "name": "qiwenh5",
+  "version": "1.0.0",
   "scripts": {
     "dev": "./node_modules/.bin/live-server --port=8090"
   },

@@ -1,6 +1,6 @@
 //老师
 var mySwiper3 = new Swiper('.cgundong', {
-  slidesPerView: 3,
+  slidesPerView: 2,
   loop: true,
   autoplay: 400000,
 });
